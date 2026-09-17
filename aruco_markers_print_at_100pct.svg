@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20.0" y="12" font-size="5" font-family="sans-serif">Snap Shot fiducials · ArUco DICT_4X4_50 · print at 100% on matte paper</text>
+<g id="marker-0" class="marker">
+<rect x="18.333" y="18.333" width="13.333" height="13.333" fill="white"/>
+<rect x="20.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="26.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="26.667" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="26.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<text x="20.000" y="35.667" font-size="3.5" font-family="sans-serif">ID 0 · 10 mm · 4x4_50</text>
+</g>
+<g id="marker-1" class="marker">
+<rect x="53.333" y="18.333" width="13.333" height="13.333" fill="white"/>
+<rect x="55.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="56.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="61.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="56.667" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="61.667" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="61.667" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="56.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="61.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<text x="55.000" y="35.667" font-size="3.5" font-family="sans-serif">ID 1 · 10 mm · 4x4_50</text>
+</g>
+<g id="marker-2" class="marker">
+<rect x="88.333" y="18.333" width="13.333" height="13.333" fill="white"/>
+<rect x="90.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="95.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="95.000" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="95.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<text x="90.000" y="35.667" font-size="3.5" font-family="sans-serif">ID 2 · 10 mm · 4x4_50</text>
+</g>
+<g id="marker-3" class="marker">
+<rect x="123.333" y="18.333" width="13.333" height="13.333" fill="white"/>
+<rect x="125.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="128.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="20.000" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="128.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="21.667" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="128.333" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="23.333" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="25.000" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="26.667" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="128.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="28.333" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="28.333" width="1.667" height="1.667" fill="black"/>
+<text x="125.000" y="35.667" font-size="3.5" font-family="sans-serif">ID 3 · 10 mm · 4x4_50</text>
+</g>
+<g id="marker-4" class="marker">
+<rect x="18.333" y="53.333" width="13.333" height="13.333" fill="white"/>
+<rect x="20.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="26.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="26.667" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="26.667" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="20.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="21.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="23.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="25.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="26.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="28.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<text x="20.000" y="70.667" font-size="3.5" font-family="sans-serif">ID 4 · 10 mm · 4x4_50</text>
+</g>
+<g id="marker-5" class="marker">
+<rect x="53.333" y="53.333" width="13.333" height="13.333" fill="white"/>
+<rect x="55.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="56.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="61.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="56.667" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="61.667" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="55.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="56.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="58.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="60.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="61.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="63.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<text x="55.000" y="70.667" font-size="3.5" font-family="sans-serif">ID 5 · 10 mm · 4x4_50</text>
+</g>
+<g id="marker-6" class="marker">
+<rect x="88.333" y="53.333" width="13.333" height="13.333" fill="white"/>
+<rect x="90.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="95.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="95.000" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="90.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="91.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="93.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="95.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="96.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="98.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<text x="90.000" y="70.667" font-size="3.5" font-family="sans-serif">ID 6 · 10 mm · 4x4_50</text>
+</g>
+<g id="marker-7" class="marker">
+<rect x="123.333" y="53.333" width="13.333" height="13.333" fill="white"/>
+<rect x="125.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="128.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="55.000" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="56.667" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="58.333" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="60.000" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="128.333" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="61.667" width="1.667" height="1.667" fill="black"/>
+<rect x="125.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="126.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="128.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="130.000" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="131.667" y="63.333" width="1.667" height="1.667" fill="black"/>
+<rect x="133.333" y="63.333" width="1.667" height="1.667" fill="black"/>
+<text x="125.000" y="70.667" font-size="3.5" font-family="sans-serif">ID 7 · 10 mm · 4x4_50</text>
+</g>
+<rect x="20.0" y="267.0" width="100" height="2" fill="black"/>
+<rect x="20.0" y="264.0" width="0.4" height="8" fill="black"/>
+<rect x="119.6" y="264.0" width="0.4" height="8" fill="black"/>
+<text x="20.0" y="275.0" font-size="4" font-family="sans-serif">100 mm — verify with a ruler after printing</text>
+</svg>
