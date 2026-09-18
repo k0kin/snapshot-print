@@ -73,7 +73,7 @@ mate. Son de 5 mm; se pegan en los rebajes de 7.1 mm.
 | `504_lift_lever_B.stl` | 1 | Plana | Dos marcas |
 | `707_detent_ring.stl` | 2 | **Cara del saliente hacia abajo, pivotes arriba** | Al sacarlo, flexiona el brazo con el dedo: debe ceder con presión suave. Si no cede, avisar antes de montar |
 
-## Total: 28 impresiones + la hoja de ArUco
+## Total: 27 archivos, 38 piezas impresas, más la hoja de ArUco
 
 Un tirón normal de la palanca necesita medio newton. **Si no se mueve, no está trabada:
 algo está mal. No la fuerces** (límite 15 N en el mango).
